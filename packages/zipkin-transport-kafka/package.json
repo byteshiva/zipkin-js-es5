@@ -1,0 +1,19 @@
+{
+  "name": "zipkin-transport-kafka",
+  "version": "0.2.6",
+  "description": "Transports Zipkin trace data via Kafka to the collector",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ../../node_modules/mocha/bin/mocha --require ../../test/helper.js"
+  },
+  "author": "Openzipkin <openzipkin.alt@gmail.com>",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/openzipkin/zipkin-js",
+  "dependencies": {
+    "kafka-node": "^0.3.2"
+  },
+  "devDependencies": {
+    "kafka-please": "^0.1.5",
+    "zipkin": "^0.2.6"
+  }
+}

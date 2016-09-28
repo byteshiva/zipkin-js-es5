@@ -9,7 +9,7 @@
   },
   "author": "OpenZipkin <openzipkin.alt@gmail.com>",
   "license": "Apache-2.0",
-  "repository": "https://github.com/openzipkin/zipkin-js",
+  "repository": "https://github.com/byteshiva/zipkin-js-es5",
   "dependencies": {
     "base64-js": "^1.1.2",
     "network-address": "^1.1.0",

@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/byteshiva/zipkin-js-es5",
   "devDependencies": {
-    "memcached": "^2.2.2",
-    "zipkin": "^0.2.6"
+    "memcached": "2.2.2",
+    "zipkin": "0.2.7"
   }
 }

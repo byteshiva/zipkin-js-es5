@@ -11,7 +11,7 @@
   "repository": "https://github.com/byteshiva/zipkin-js-es5",
   "devDependencies": {
     "node-fetch": "^1.5.1",
-    "restify": "^4.1.1",
-    "zipkin": "^0.2.6"
+    "restify": "4.3.4",
+    "zipkin": "0.2.7"
   }
 }

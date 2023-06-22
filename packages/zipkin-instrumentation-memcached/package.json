@@ -11,6 +11,6 @@
   "repository": "https://github.com/byteshiva/zipkin-js-es5",
   "devDependencies": {
     "memcached": "^2.2.2",
-    "zipkin": "^0.2.6"
+    "zipkin": "^0.22.0"
   }
 }

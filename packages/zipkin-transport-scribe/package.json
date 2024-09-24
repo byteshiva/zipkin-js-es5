@@ -13,7 +13,7 @@
     "scribe": "0.0.9"
   },
   "devDependencies": {
-    "thrift": "^0.9.3",
+    "thrift": "^0.21.0",
     "zipkin": "^0.2.6"
   }
 }

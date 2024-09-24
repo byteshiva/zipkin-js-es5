@@ -13,7 +13,7 @@
   "dependencies": {
     "base64-js": "^1.1.2",
     "network-address": "^1.1.0",
-    "thrift": "^0.9.3"
+    "thrift": "^0.21.0"
   },
   "devDependencies": {}
 }
